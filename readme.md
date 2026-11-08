@@ -109,6 +109,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Testing & Quality
 
+* [agent-qa](https://vostride.com) - Natural-language web, Android and iOS QA with persistent memidex memory, validated self-improvement, and inspectable run evidence. [FSL-1.1-ALv2](https://vostride.com/license.md), including competing-use limits; model and infrastructure costs are separate.
 * [Jest](https://jestjs.io/) - Delightful JavaScript testing framework.
 * [Playwright](https://playwright.dev/) - End-to-end testing for modern web apps.
 * [Cypress](https://www.cypress.io/) - Fast, easy testing for anything that runs in a browser.
